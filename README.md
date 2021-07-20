@@ -1,4 +1,4 @@
-http://appdev.openshift.io/docs/vertx-runtime.html#mission-configmap-vertx
+https://appdev.openshift.io/docs/vertx-runtime.html#example-configmap-vertx
 
 ## How to Build
 You can build this project with this maven command:
